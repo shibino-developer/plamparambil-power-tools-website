@@ -1,7 +1,5 @@
 
-Welcome to my website repository! This repository contains the source code and assets for my personal/business website.
-
-## Overview
+Welcome to my website repository! 
 
 
 ## Technologies Used
@@ -9,12 +7,11 @@ Welcome to my website repository! This repository contains the source code and a
 - HTML
 - CSS
 - JavaScript
-- Bootstrap (optional)
-- [Any other technologies or frameworks used]
+- Bootstrap 
 
 ## Deployment
 
-The website is hosted using GitHub Pages. You can access it [here](https://your-username.github.io/your-repository-name/).
+The website is hosted using GitHub Pages. You can access it https://github.com/shibino-developer/plamparambil-power-tools-website.
 
 ## Getting Started
 
@@ -22,7 +19,7 @@ To view the source code or make changes to the website, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-git clone
+git clone 
 
 2. Navigate to the project directory:
 
