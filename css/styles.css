@@ -293,7 +293,7 @@ body {
 /* Apply animation to animated elements */
 .animated-element {
     opacity: 0; /* Start with opacity 0 */
-    animation: slideInFromRight 3s ease-out forwards; /* Apply animation */
+    animation: slideInFromRight 1s ease-out forwards; /* Apply animation */
 }
 
 @keyframes slideInFromLeft {
@@ -308,7 +308,7 @@ body {
 }
 
 .animated-story {
-    animation: slideInFromLeft 3s ease-out;
+    animation: slideInFromLeft 1s ease-out backwards;
 }
 
 /* Ensure the container has enough padding and margin */
